@@ -6,3 +6,7 @@
 3. Feed each image's HOG features and its label into an SVM
 4. For test data (digits on a sudoku puzzle), run HOG on the digits, then ask 
     the SVM classify the HOG features from the sudoku puzzle
+
+
+
+"The complexity of songs" di Knuth: implementare algoritmo che, dato un testo di canzone, calcola automaticamente la complessita` come fa Knuth nel suo articolo.
