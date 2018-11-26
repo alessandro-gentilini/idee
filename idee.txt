@@ -10,3 +10,5 @@
 
 
 "The complexity of songs" di Knuth: implementare algoritmo che, dato un testo di canzone, calcola automaticamente la complessita` come fa Knuth nel suo articolo.
+
+Grafico numero di primary branches vs altezza albero.
