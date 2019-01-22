@@ -14,3 +14,7 @@
 Grafico numero di primary branches vs altezza albero.
 
 rapporto incrementale come approx derivata, cfr alistair e altri testi
+
+registrazioni immagini con sift o simili https://www.the-cryosphere.net/10/2779/2016/tc-10-2779-2016.pdf
+
+errore interpolazione sinc rispetto a lineare, con python notebook
