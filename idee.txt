@@ -1,4 +1,4 @@
-"Suggestions for digit recognition" http://stackoverflow.com/a/13319850/15485
+"Suggestions for digit recognition" http://stackoverflow.com/a/13319850
 
 1. Get some hand-labeled training data.
 2. Run Histogram of Oriented Gradients (HOG) on the training data, and produce one
